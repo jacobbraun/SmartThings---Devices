@@ -15,6 +15,8 @@
  *  on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License
  *  for the specific language governing permissions and limitations under the License.
  *
+ * 06/10/2016
+ * This was forked from https://github.com/sticks18/SmartThings---Devices, "sticks18"/Scott G, because I wanted to tweak the interface
  */
 
 metadata {
